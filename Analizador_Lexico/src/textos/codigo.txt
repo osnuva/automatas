@@ -1,0 +1,6 @@
+program Ejemplo
+begin
+	Valor = 12.5;
+	Digito = 4;
+	Resultado = (Valor*digito);
+end
